@@ -17,15 +17,11 @@ Only "Run app" in the play button.
 
 If you want to perform authentication (to get old conversations from an userId), otherwise the conversation will be anonymous (always a new conversation).
 
-```
 * User Identifier: The identifier of the user (a string generated as you want, an email, a phone number, an email + a phone number)
 * Key Id: The key id you can found in the Settings of your appId in https://app.smooch.io
 * key Secret: The secret you can found in the Settings of your appId in https://app.smooch.io
-```
 
-```
-* User properties: If you want to add properties to the user logged in (metadata to identify room for example)
-```
+* User properties: If you want to add properties to the logged user (metadata to identify room for example)
 
 ## Predefine params
 
