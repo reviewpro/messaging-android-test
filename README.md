@@ -25,7 +25,7 @@ If you want to perform authentication (to get old conversations from an userId),
 
 ## Predefine params
 
-If you want to predefine params before run to avoid copy and paste ids in the mobile app, you only have to fill the values above in `values/strings.xml`:
+If you want to predefine params before run to avoid copy and paste params in the mobile app, you only have to fill the values above in `values/strings.xml`:
 
 ### Mandatory
 
