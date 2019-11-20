@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_id">App Id</string>
+    <string name="app_id_example"></string>
+    <string name="app_name">ReviewPro Messaging Test</string>
+    <string name="chat">Chat</string>
+    <string name="connect">Connect</string>
+    <string name="connection_params">Connection Params</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="key_id">API Key Id</string>
+    <string name="key_id_example"></string>
+    <string name="key_secret">API Key Secret</string>
+    <string name="key_secret_example"></string>
+    <string name="key_value">User properties (as: "key:value;key:value")</string>
+    <string name="key_value_example"></string>
+    <string name="optional_params">Optional Params</string>
+    <string name="user_id">User identifier</string>
+    <string name="user_id_example"></string>
+</resources>

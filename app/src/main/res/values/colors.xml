@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#339900</color>
+    <color name="colorPrimaryDark">#1e5b00</color>
+    <color name="colorAccent">#1F91FC</color>
+
+    <color name="Smooch_accent">#339900</color>
+    <color name="Smooch_accentDark">#1e5b00</color>
+    <color name="Smooch_accentLight">#4ae000</color>
+</resources>
